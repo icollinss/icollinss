@@ -4,9 +4,9 @@
 
 I am an Odoo Consultant and Developer
 
-🌱 Currently learning **DevOps, GCP, CI/CD, Kubernetes, Terraform, Docker** | Automation & Monitoring Enthusiast
+🌱 Currently learning **DevOps, AWS, CI/CD, Kubernetes, Terraform, Docker** | Automation & Monitoring Enthusiast
 
-💬 Ask me about **React, JavaScript, Node.js, Python, Odoo**
+💬 Ask me about **AWS, JavaScript, Node.js, Python, Odoo**
 
 📫 How to reach me: icthiongo@gmail.com
 
